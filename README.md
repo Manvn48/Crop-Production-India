@@ -14,8 +14,7 @@
 - [Model Evaluation](#model-evaluation)
 - [Conclusion](#conclusion)
 - [Technical Skills and Tools](#technical-skills-and-tools)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This project involves a comprehensive analysis of crop production data from various states in India. The primary objective is to uncover key trends and insights and build predictive models to forecast crop production. The project utilizes various data analysis and machine learning techniques to achieve these goals.
